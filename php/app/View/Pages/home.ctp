@@ -1,5 +1,5 @@
 
-<h1>Enter the number</h1>
+<h1>Enter any number number</h1>
 <form id="squearecal">
 <input type="text" id="number" class="number" size="20">
 <BUTTON type="button" id="calbtn" onclick="Javascript:return Getcalculate();">Calculate</button>
